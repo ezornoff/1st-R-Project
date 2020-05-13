@@ -1,1 +1,2 @@
 View(example)
+print('hello')
